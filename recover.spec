@@ -13,7 +13,6 @@ Group:		File tools
 Url:		http://recover.sourceforge.net/linux/recover/
 Source:		%{name}-%{version}.tar.bz2
 Patch:		%{name}.patch
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 requires:	e2fsprogs
 
 %description
