@@ -1,6 +1,6 @@
 %define name recover
 %define version 1.3c
-%define release %mkrel 5
+%define release %mkrel 6
 %define prefix %{_prefix}
 %define summary Utility for recovering a lost file
 
