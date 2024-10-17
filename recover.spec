@@ -10,7 +10,7 @@ Release:        %{release}
 Summary:	%{summary}
 License:	GPL
 Group:		File tools
-Url:		http://recover.sourceforge.net/linux/recover/
+Url:		https://recover.sourceforge.net/linux/recover/
 Source:		%{name}-%{version}.tar.bz2
 Patch:		%{name}.patch
 BuildRoot:	%{_tmppath}/%{name}-buildroot
